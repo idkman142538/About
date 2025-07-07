@@ -5,6 +5,7 @@
 - 📫 How to reach me idk
 - 😄 Pronouns: soxnotfound
 - ⚡ Fun fact: im not good in math
+- https://google.com
 
 <!---
 SoxRegretsLife/SoxRegretsLife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

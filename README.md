@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @SoxRegretsLife
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning py
-- 💞️ I’m looking to collaborate on NIL
-- 📫 How to reach me idk
-- 😄 Pronouns: soxnotfound
-- ⚡ Fun fact: im not good in math
-- https://google.com
+- 👋 Hi, I’m [@SoxRegretsLife's](https://github.com/soxregretslife) alt account
+- 👀 I’m interested in Proxies and Linux emulators
+- 🌱 I’m currently finishing learning Python basics
+- 💞️ I’m looking forward to [Scramjets](https://github.com/MercuryWorkshop/scramjet) and [Holy-Unblocker-LTS](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) development 
+- 📫 How to reach me: open an issue on 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am better than Script kiddie but not one
+  
 
 <!---
-SoxRegretsLife/SoxRegretsLife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi :D
 --->
